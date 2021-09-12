@@ -1,1 +1,1 @@
-gg.alert("LOXRY ONLİNE GG YE HOŞGELDİN")
+
