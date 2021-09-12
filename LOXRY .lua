@@ -1,4 +1,4 @@
-gg.alert("BAKIMDA")PW = gg.prompt({'ʟᴜᴛғᴇɴ ᴏɴʟɪɴᴇ ɢɪʀɪs ᴋᴇʏɪɴɪᴢɪ ɢɪʀɪɴɪᴢ💸 '},{[1]=''},{[1]='text'})
+PW = gg.prompt({'ʟᴜᴛғᴇɴ ᴏɴʟɪɴᴇ ɢɪʀɪs ᴋᴇʏɪɴɪᴢɪ ɢɪʀɪɴɪᴢ💸 '},{[1]=''},{[1]='text'})
 if not PW then return
 end 
 if PW[1] == "" then os.exit() end
