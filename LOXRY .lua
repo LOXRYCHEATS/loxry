@@ -1,4 +1,4 @@
-
+gg.alert("KEYİ GİRİNİZ")
 PW = gg.prompt({'🔒 ᴀɴᴀʜᴛᴀʀ ꜱɪꜰʀᴇꜱɪɴɪ ɢɪʀɪɴ : '},{[1]=''},{[1]='text'})
 if not PW then return
 end 
